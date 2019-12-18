@@ -1,1 +1,1 @@
-Practice your blackjack on your computer before playing for real money in the casino!
+Practice blackjack on your computer before playing for real money in the casino!
