@@ -1,3 +1,3 @@
-Practice blackjack on your computer before playing for real money in the casino!
+Practice blackjack on your computer before playing with real money!
 To play game, click link below:
 https://kuayc.github.io/blackJack/
